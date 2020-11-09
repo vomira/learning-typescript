@@ -3,11 +3,7 @@ let speed: string = 'fast';
 
 let colors: string[] = ['red', 'blue']
 
-class Car {
 
-}
-
-let car: Car = new Car();
 
 //Object literal
 let point: { x: number; y: number } = {
